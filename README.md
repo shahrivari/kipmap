@@ -1,0 +1,2 @@
+# kipmap
+Compact String Collections
